@@ -9,5 +9,7 @@ CLIENT_SECRET="[your client secret]"
 
 # Setting
 python 3.10
+
 pip install python-dotenv
+
 pip install requests
